@@ -13,14 +13,7 @@ body {
     background-position: top 5%; 
 }
 
-/* ~~~~~ TEST ANIMATION ~~~~~ */
-#animation { 
-    background-image: url(https://jumpingfishes.com/dancingpurpleunicorns/charging.png);
-    background-repeat: no-repeat; 
-    height: 102px; 
-    width: 140px; 
-}
-/* ~~~~~ TEST ANIMATION ~~~~~ */
+
 
 /* ~~~~~ Main Front ~~~~~ */
 .header{
