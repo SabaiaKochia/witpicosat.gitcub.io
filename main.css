@@ -11,6 +11,7 @@ body {
     background-image: url(https://www.worldatlas.com/r/w2560-q80/upload/7d/db/c3/shutterstock-1558058690.jpg);
     background-size: cover;                     
     background-position: top 5%; 
+    background-repeat: none;
 }
 
 
